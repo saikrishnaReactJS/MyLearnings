@@ -1,0 +1,41 @@
+.container {
+    border: 5px solid;
+}
+header {
+    border: 2px solid;
+    margin: 5px;
+    text-align: center;
+    background-color: yellow;
+    font-style: italic;
+    height: 50px;
+}
+nav {
+    border: 2px solid;
+    margin: 5px;
+}
+.childSection {
+    overflow: auto;
+    margin: 5px;
+}
+p {
+    border: 3px solid;
+    margin: 5px;
+    width: 1000px;
+    float: left;
+    height: 98px;
+}
+footer {
+    border: 3px solid;
+    margin: 8px;
+    text-align: center;
+    background: darkolivegreen;
+}
+aside {
+    text-align: center;
+}
+li {
+    display: inline;
+}
+ul {
+    word-spacing: 180px;
+}

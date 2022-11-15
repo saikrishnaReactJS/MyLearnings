@@ -1,0 +1,52 @@
+.Container {
+    border: 2px solid;
+}
+header {
+    border: 2px solid;
+    margin: 5px;
+    height: 50px;
+    text-align: center;
+}
+nav {
+    border: 2px solid;
+    margin: 5px;
+    height: 50px;
+    text-align: center;
+}
+.parentSection {
+    overflow: auto;
+    margin: 5px;
+}
+.childSection {
+    width: 950px;
+    float: left;
+    margin-right: 5px;
+}
+section {
+    border: 2px solid;
+    float: left;
+    width: 950px;
+    height: 50px;
+    text-align: center;
+}
+article {
+    border: 2px solid;
+    float: left;
+    width: 950px;
+    height: 50px;
+    margin-top: 5px;
+    text-align: center;
+}
+aside {
+    float: right;
+    border: 2px solid;
+    height: 109px;
+    width: 540px;
+    text-align: center;
+}
+footer {
+    border: 2px solid;
+    text-align: center;
+    height: 50px;
+    margin: 5px;
+}

@@ -1,0 +1,208 @@
+*{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.firstBox {
+    background: black;
+    color: white;
+}
+.firstBox header {
+    width: 900px;
+    margin: auto;
+    overflow: auto;
+    height: 100px;
+}
+div#Basic {
+    float: left;
+    width: 250px;
+    margin-top: 20px;
+}
+div#Basic h1 {
+    font-size: 32px;
+    padding: 0;
+    margin: 0;
+}
+div#Basic h2 {
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+}
+header nav {
+    float: right;
+    width: 606px;
+    background: gray;
+    margin-top: 20px;
+}
+header nav ul li {
+    display: inline;
+    margin-right: 25px;
+    text-transform: uppercase;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+div#bigImageSection {
+    margin: auto;
+    width: 900px;
+}
+div#bigImageSection img {
+    width: 900px;
+    margin-top: 10px;
+    height: 360px;
+}
+div#smallImageSection {
+    width: 978px;
+    margin: auto;
+    overflow: auto;
+}
+.smallImagesLeft {
+    float: left;
+    width: 283px;
+    margin-right: 20px;
+}
+.smallImagesLeft figure {
+    width: 283px;
+    border: 1px solid;
+    padding: 2px;
+}
+.smallImagesLeft img {
+    width: 283px;
+}
+.smallImagesRight {
+    width: 366px;
+    float: right;
+}
+.smallImagesRight figure {
+    width: 280px;
+    border: 1px solid;
+    padding: 2px;
+}
+.smallImagesRight img {
+    width: 280px;
+}
+.captionSection {
+    width: 900px;
+    margin: auto;
+    overflow: auto;
+}
+.figureCaptionLeft {
+    float: left;
+    width: 287px;
+    margin-right: 22px;
+}
+.figureCaptionLeft figcaption {
+    width: 287px;
+}
+.figureCaptionLeft h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.figureCaptionLeft p {
+    width: 287px;
+}
+.figureCaptionRight {
+    float: right;
+    width: 281px;
+}
+.figureCaptionRight figcaption {
+    width: 271px;
+}
+.figureCaptionRight h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.figureCaptionRight p {
+    width: 281px;
+}
+.captionSection footer.more {
+    text-align: right;
+}
+.captionSection footer a {
+    color: #FF9900;
+    background-color: #FFFFFF;
+}
+.introFigure {
+    width: 900px;
+    margin: auto;
+    overflow: auto;
+    margin-top: 20px;
+}
+.introduction {
+    float: left;
+    width: 354px;
+    height: 310px;
+}
+.introduction h2 {
+    font-style: italic;
+}
+.introduction footer.more {
+    text-align: right;
+}
+.introduction a {
+    color: #FF9900;
+    background-color: #FFFFFF;
+}
+.introductionFigure {
+    float: right;
+    width: 526px;
+    border: 1px solid;
+    padding: 2px;
+}
+.introductionFigure img {
+    width: 526px;
+    height: 306px;
+}
+.fifthBox {
+    background: #333333;
+    color: wheat;
+    margin-top: 20px;
+}
+div#footer {
+    width: 900px;
+    margin: auto;
+    overflow: auto;
+    padding: 30px 0;
+}
+section.one_quarter {
+    float: left;
+    margin: 0 40px 0 0;
+}
+h2.title {
+    font-style: italic;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#footer nav {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+#footer ul {
+    list-style: none;
+}
+#footer section nav li {
+    margin: 0 0 5px 0;
+    padding: 0 0 5px 0;
+    border-bottom: 1px solid #555555;
+}
+#footer section nav ul li a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+.sixthBox {
+    background: black;
+    color: wheat;
+}
+footer#copyright {
+    width: 900px;
+    margin: auto;
+    overflow: auto;
+}
+p.fl_left {
+    float: left;
+}
+p.fl_right {
+    float: right;
+}

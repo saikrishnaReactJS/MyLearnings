@@ -1,0 +1,64 @@
+.marriageCard {
+    border: 5px solid;
+    width: 750px;
+    height: 600px;
+}
+header {
+    border: 1px solid;
+    margin: 1px;
+    background: yellow;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+nav {
+    border: 1px solid;
+    margin: 1px;
+    text-align: center;
+    background: gold;
+    height: 190px;
+}
+li {
+    font-size: medium;
+    line-height: 1;
+    list-style: none;
+}
+.bodyContent {
+    overflow: auto;
+    border: 1px solid;
+    height: 227px;
+    margin: 1px;
+    background: gainsboro;
+}
+.childSection {
+    float: left;
+    width: 534px;
+}
+section {
+    float: left;
+}
+.childSection img {
+    height: 200px;
+    margin: 10px 0 0 10px;
+}
+article {
+    /* border: 1px solid; */
+    margin: 1px 197px;
+}
+.asideSection {
+    float: right;
+}
+p {
+    font-style: italic;
+    width: 341px;
+}
+aside {
+    float: right;
+}
+.asideSection img {
+    width: 195px;
+    height: 210px;
+}
+footer {
+    text-align: center;
+}
